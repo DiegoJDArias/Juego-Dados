@@ -1,5 +1,6 @@
 # Juego-Dados is a command prompt game.
 
+![GAME](https://github.com/user-attachments/assets/372a0beb-d281-4072-819d-b8cfc93a78c5)
 
 
 Let's take a break and have a little bit of fun!
